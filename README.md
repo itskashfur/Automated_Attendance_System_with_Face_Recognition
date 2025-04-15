@@ -40,3 +40,5 @@ Key Benefits:
 
 ## Installation
 1. Clone the repository:
+git clone https://github.com/yourusername/automated-attendance-system.git
+cd automated-attendance-system
