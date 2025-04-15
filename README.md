@@ -42,3 +42,30 @@ Key Benefits:
 1. Clone the repository:
 git clone https://github.com/yourusername/automated-attendance-system.git
 cd automated-attendance-system
+
+2. Install dependencies:
+pip install opencv-python numpy dlib face-recognition pandas
+
+3. For GPU support (optional):
+pip install dlib --install-option="--USE_AVX_INSTRUCTIONS" --install-option="--USE_SSE4_INSTRUCTIONS"
+
+
+## Usage
+1. Register a new face:
+python register_face.py --name "John Doe"
+
+2. Run attendance system:
+python attendance_system.py
+
+
+3. View attendance records:
+python view_attendance.py
+
+
+
+
+
+
+
+
+
