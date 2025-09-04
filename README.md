@@ -3,7 +3,7 @@
 [![OpenCV](https://img.shields.io/badge/OpenCV-5.0-blue)]()
 [![Python](https://img.shields.io/badge/Python-3.8%2B-green)]()
 [![dlib](https://img.shields.io/badge/dlib-19.24-red)]()
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itskashfur&label=Profile%20views&color=0e75b6&style=flat" alt="itskashfur" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/[?username=itskashfur]Automated_Attendance_System_with_Face_Recognition&label=Profile%20views&color=0e75b6&style=flat" alt="itskashfur" /> </p>
 
 ## Table of Contents
 1. [Introduction](#introduction)
