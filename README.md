@@ -1,6 +1,5 @@
 # Automated Attendance System Using Face Recognition and Eye Blink Detection
 
-RoadMap
 
 [![OpenCV](https://img.shields.io/badge/OpenCV-5.0-blue)]()
 [![Python](https://img.shields.io/badge/Python-3.8%2B-green)]()
